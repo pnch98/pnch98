@@ -1,7 +1,10 @@
 ![Image Description](/images/wallpaper.jpg)
-### Hello there, I'm Alfonso Cecere, a Full Stack Developer 👋
+## Hello there, I'm Alfonso Cecere, a Full Stack Developer 👋
 
-## Technologies Used
+### About me
+I'm passionate about videogames, music, movies and, you guessed it... coding! 🚀
+
+### Technologies Used
 - **Frontend**:
   - JavaScript
   - React
@@ -11,4 +14,6 @@
 
 - **Backend**:
   - ASP.NET Web API
+ 
+  
 Happy coding! 🚀
