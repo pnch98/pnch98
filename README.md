@@ -14,6 +14,7 @@ I'm passionate about videogames, music, movies and, you guessed it... coding! ðŸ
 
 - **Backend**:
   - ASP.NET Web API
+  - ASP.NET MVC Core + Entity Framework
  
   
 Happy coding! ðŸš€
