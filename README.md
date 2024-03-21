@@ -1,17 +1,14 @@
 ![Image Description](/images/wallpaper.jpg)
 ### Hello there, I'm Alfonso Cecere, a Full Stack Developer 👋
-<!--
-**pnch98/pnch98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technologies Used
+- **Frontend**:
+  - JavaScript
+  - React
+  - Redux
+  - Bootstrap
+  - Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**:
+  - ASP.NET Web API
 Happy coding! 🚀
